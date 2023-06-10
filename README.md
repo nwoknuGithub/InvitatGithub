@@ -7,4 +7,4 @@ Wsp guys, i dont really post much here except some stuff.
 4. C++ (a little)
 5. PHYTON
 
-# Discord : znxd#0001
+# Discord : znxd
